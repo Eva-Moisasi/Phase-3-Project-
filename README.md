@@ -29,4 +29,11 @@ Metrics used: Accuracy, Precision, Recall, and F1 Score. These are performance m
 ![download (4)](https://user-images.githubusercontent.com/113707140/218000368-613373e5-bbd9-4840-adb6-c5ccb348e590.png)
 
 ## Final Model
+The best performing model is XGBoost with waterpoint_type, quantity_seasonal and extraction_type having the most importance, we are able to best predict the functionality of water wells in Tanzania to 80% accuracy
+
+![download (5)](https://user-images.githubusercontent.com/113707140/218001143-36127a0d-b112-4d91-ae6d-0323de9a033f.png)
+
+![download (6)](https://user-images.githubusercontent.com/113707140/218001204-28bbaebf-4408-474e-8a10-564d3c2eea98.png)
+
+
 
