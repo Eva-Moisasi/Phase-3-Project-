@@ -18,6 +18,10 @@ Nonfunctional  - has more than 3 months of interruption
 
 ![download (3)](https://user-images.githubusercontent.com/113707140/217998615-29b81921-0846-464b-b17c-bb86c42f1e59.png)
 
+
+
+![download (4)](https://user-images.githubusercontent.com/113707140/218000368-613373e5-bbd9-4840-adb6-c5ccb348e590.png)
+
 ## Models
 Some of the models that i used were: Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbor, XGBoost Classifier. 
 
