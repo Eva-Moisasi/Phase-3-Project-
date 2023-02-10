@@ -32,7 +32,8 @@ Some of the models that i used were: Logistic Regression, Decision Tree, Random 
 Metrics used: Accuracy, Precision, Recall, and F1 Score. These are performance metrics used to evaluate the accuracy of the classification models. They measure different aspects of the model's performance, such as the proportion of correct predictions, the proportion of correct positive predictions, and the balance between precision and recall.
 
 
-![Screenshot (3)](https://user-images.githubusercontent.com/113707140/218021069-3695cd2b-1c4c-4fe4-bee6-0fe4a3cd0e75.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/113707140/218021196-87bf1e21-d238-45ba-9340-8456e9556f88.png)
+
 
 
 ![download (4)](https://user-images.githubusercontent.com/113707140/218000368-613373e5-bbd9-4840-adb6-c5ccb348e590.png)
