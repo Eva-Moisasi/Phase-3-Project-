@@ -18,6 +18,14 @@ Nonfunctional  - has more than 3 months of interruption
 
 ![download (3)](https://user-images.githubusercontent.com/113707140/217998615-29b81921-0846-464b-b17c-bb86c42f1e59.png)
 
+In order for the classification models to correctly predict the target, i change the labels from strings to integers.
+
+'functional' : 1, 
+
+'non functional' : 0, 
+
+'functional needs repair' : 2
+
 ## Models
 Some of the models that i used were: Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbor, XGBoost Classifier. 
 
