@@ -20,9 +20,9 @@ Nonfunctional  - has more than 3 months of interruption
 
 In order for the classification models to correctly predict the target, i change the labels from strings to integers.
 
-'functional' : 1, 
+'functional' : 0, 
 
-'non functional' : 0, 
+'non functional' : 1, 
 
 'functional needs repair' : 2
 
