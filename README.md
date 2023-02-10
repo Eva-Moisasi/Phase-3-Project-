@@ -14,12 +14,16 @@ Functional - supplies adequate water to the population
 Functional needs repair - has less than 3 months of interruption in service.
 
 Nonfunctional  - has more than 3 months of interruption
+
+
 ![download (3)](https://user-images.githubusercontent.com/113707140/217998615-29b81921-0846-464b-b17c-bb86c42f1e59.png)
 
 ## Models
 Some of the models that i used were: Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbor, XGBoost Classifier. 
 
 Metrics used: Accuracy, Precision, Recall, and F1 Score. These are performance metrics used to evaluate the accuracy of the classification models. They measure different aspects of the model's performance, such as the proportion of correct predictions, the proportion of correct positive predictions, and the balance between precision and recall.
+
+
 ![Screenshot (3)](https://user-images.githubusercontent.com/113707140/217999702-3510bd83-b1b5-4542-9136-b72610a45e28.png)
 
 
