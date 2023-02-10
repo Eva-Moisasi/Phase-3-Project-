@@ -46,4 +46,25 @@ The best performing model is XGBoost with waterpoint_type, quantity_seasonal and
 ![download (6)](https://user-images.githubusercontent.com/113707140/218001204-28bbaebf-4408-474e-8a10-564d3c2eea98.png)
 
 
+Conclusions / Next Steps
+Based on the results, the XGBoost model has shown better performance compared to other models with an accuracy of 0.79 and a balanced precision, recall, and F1 score. The confusion matrix also shows that the XGBoost model has correctly classified more observations compared to the other models.
+
+The model had the best performance at predicting functional wells, but struggled with accurately predicting those that were functional but in need of repairs. Meanwhile, its results for non-functional wells were adequate.
+
+To improve the model's predictions, the following steps are recommended:
+
+Prioritize repairs and maintenance for pumps that are already failing or in need of repairs.
+
+Consider implementing pump types that have a lower likelihood of failure in the future.
+
+Improve data gathering processes and ensure the accuracy of future data.
+
+Further Analysis:
+Does water quality appear to contribute to the likelihood of a well failing/needing repair?
+How is the status of a well associated with the population using the well, if at all?
+Is there a relationship between failure/repair and source_class eg(groundwater and surface water wells)?
+is there a relationship between failure/repair and the type of pump?
+Does the age of the well indicate liklihood of needed repair or failure?
+
+
 
